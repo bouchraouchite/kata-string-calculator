@@ -45,6 +45,6 @@ public class TestVendingMachine {
         vendingMachine.insertCoin(Coin.TWO);
         vendingMachine.selectProduct(Product.COCA);
         vendingMachine.reset();
-        
+
     }
 }

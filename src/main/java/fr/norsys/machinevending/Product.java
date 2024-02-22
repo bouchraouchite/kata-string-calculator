@@ -9,6 +9,7 @@ public enum Product {
     Product(int price) {
         this.price = price;
     }
+    
 
     public int getPrice() {
         return price;
