@@ -42,4 +42,9 @@ public class VendingMachine {
         coins.clear();
         currentAmount = 0;
     }
+
+    public Object getProducts() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getProducts'");
+    }
 }

@@ -2,9 +2,7 @@ package fr.norsys.machinevending;
 
 import org.junit.jupiter.api.Test;
 
-import fr.norsys.machinevending.Coin;
-import fr.norsys.machinevending.Product;
-import fr.norsys.machinevending.VendingMachine;
+
 
 import static org.junit.jupiter.api.Assertions.*;
 
